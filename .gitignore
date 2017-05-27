@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# OS X
+.DS_Store
+
+# Gatsby
+.gatsby-context.js
